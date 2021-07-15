@@ -1,6 +1,7 @@
 # flutter_dig_receipt
 
-A new Flutter project.
+A digital receipt and budgeting app.
+MAC Hack Sprint
 
 ## Getting Started
 
