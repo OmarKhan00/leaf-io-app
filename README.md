@@ -1,0 +1,3 @@
+# leaf-io-app
+A digital receipt and budgeting app.
+MAC Hack Sprint
