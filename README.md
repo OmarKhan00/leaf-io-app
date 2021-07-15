@@ -1,4 +1,4 @@
 # leaf.io
 
-- A digital receipt and budgeting app.
-- MAC Hack Sprint
+- A digital receipt and budgeting app developed at the MAC Hack Sprint.
+- The Outliers: Raksha, Rounak, Hamza, Jerry, Omar
